@@ -1,4 +1,4 @@
-Solving Sudoku puzzle using evolutionary algorithms
+# Source code for my bachelor thesis prject : solving Sudoku puzzle using evolutionary algorithms
 
 This project was my final project, the goal was to solve a sudoku puzzle. The method I used here was genetic algorithms and simulated annealing.
 The first algorithm put numbers in free houses in a way that satisfy unique number in an area role.The fitness value here is the sum of all missed number in each row and column.
